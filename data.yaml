@@ -1,0 +1,4 @@
+train: C:\Users\irzap\OneDrive\Documents\Deteksi\resource\training_data\user_dataset\training_data_preprocessed\train
+val: C:\Users\irzap\OneDrive\Documents\Deteksi\resource\training_data\user_dataset\training_data_preprocessed\valid
+nc: 1
+names: ["license_plate"]
